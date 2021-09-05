@@ -1,4 +1,8 @@
 # Automatically like AniList activities every minute
+
+## Warning
+**Please do not use this**. AniList does not like user accounts being automated for something like this, it might put your account to risk. I'm archiving this repository for good.
+
 ## Getting started
 The script needs an AniList OAuth access token to interact with the AniList API.
 [Follow this guide to learn how to get yours.](https://anilist.gitbook.io/anilist-apiv2-docs/overview/oauth/implicit-grant)
@@ -14,6 +18,3 @@ pip install -r requirements.txt
 python anial.py
 ```
 - Watch it like a few activites every minute on your behalf.
-
-## Why?
-I like to build useless little scripts when I am bored.
